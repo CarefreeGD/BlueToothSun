@@ -1,0 +1,7 @@
+platform:ios,'7.0'
+target"NEWNEW"do
+pod 'Masonry', '~> 1.0.1'
+pod 'MJRefresh', '~> 3.1.12'
+pod 'IQKeyboardManager', '~> 3.3.7'
+pod 'SVProgressHUD', '~> 2.0.3'
+end
